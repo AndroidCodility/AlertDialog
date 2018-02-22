@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AlertDialog Popup</string>
+    <string name="applicant_name">Android Codility</string>
+    <string name="alert_dialog">Alert Dialog</string>
+    <string name="dialog">Popup Window &amp; Custom Dialog</string>
+</resources>
